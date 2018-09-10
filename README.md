@@ -17,7 +17,7 @@ npm install react-bounty
 ```javascript
 import ReactBounty from 'react-bounty';
 
-<Bounty value={ `${speakers}` } className="bounty"></Bounty>
+<Bounty value={ `${speakers}` } className="bounty"/>
 ```
 
 ## License
