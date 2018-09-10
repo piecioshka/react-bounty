@@ -1,0 +1,31 @@
+{
+    "name": "react-bounty",
+    "description": "Bounty React Component",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
+    "dependencies": {
+        "bounty": "^1.2.1"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:piecioshka/react-bounty.git"
+    },
+    "files": [
+        "src",
+        "package.json",
+        "README.md"
+    ],
+    "keywords": [
+        "react",
+        "bounty",
+        "odometer",
+        "animation"
+    ],
+    "main": "./src/index.js"
+}
