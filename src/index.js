@@ -14,10 +14,7 @@ export default class ReactBounty extends PureComponent {
         letterAnimationDelay: PropTypes.number,
     };
 
-    constructor(props) {
-        super(props);
-        this.node = React.createRef();
-    }
+    node = React.createRef();
 
     componentDidMount() {
         const { value, ...options } = this.props;
