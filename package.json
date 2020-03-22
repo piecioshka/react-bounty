@@ -14,14 +14,14 @@
         "build": "babel src --out-dir dist"
     },
     "dependencies": {
-        "bounty": "^1.2.1"
+        "bounty": "^1.2.2"
     },
     "devDependencies": {
-        "@babel/cli": "^7.5.5",
-        "@babel/core": "^7.5.5",
-        "@babel/plugin-proposal-class-properties": "^7.5.5",
-        "@babel/preset-env": "^7.5.5",
-        "@babel/preset-react": "^7.0.0",
+        "@babel/cli": "^7.8.4",
+        "@babel/core": "^7.9.0",
+        "@babel/plugin-proposal-class-properties": "^7.8.3",
+        "@babel/preset-env": "^7.9.0",
+        "@babel/preset-react": "^7.9.1",
         "babel-plugin-transform-react-remove-prop-types": "^0.4.24"
     },
     "repository": {
