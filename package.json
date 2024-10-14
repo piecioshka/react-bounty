@@ -26,7 +26,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:piecioshka/react-bounty.git"
+        "url": "git+ssh://git@github.com/piecioshka/react-bounty.git"
     },
     "files": [
         "src",
