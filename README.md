@@ -5,7 +5,7 @@
 [![downloads count](https://img.shields.io/npm/dt/react-bounty.svg)](https://www.npmjs.com/package/react-bounty)
 [![license](https://img.shields.io/npm/l/react-bounty.svg)](https://piecioshka.mit-license.org)
 
-[Bounty](https://github.com/coderitual/bounty) React Component
+🔨 [Bounty](https://github.com/coderitual/bounty) React Component
 
 ## Installation
 
