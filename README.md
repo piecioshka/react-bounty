@@ -8,13 +8,13 @@
 
 🔨 [Bounty](https://github.com/coderitual/bounty) React Component
 
-## Installation
+## Usage
+
+Installation:
 
 ```bash
 npm install react-bounty
 ```
-
-## Usage
 
 ```javascript
 import Bounty from 'react-bounty';
